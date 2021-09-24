@@ -67,6 +67,8 @@ function App() {
                 <Button color='secondary'>Default</Button>
                 <Button color='danger'>Default</Button>
             </div>
+
+            <footer>By Valberto Enoc</footer>
         </div>
     )
 }
